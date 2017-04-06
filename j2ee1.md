@@ -2,16 +2,11 @@
 
 * برنامه نویسی وب در سمت کاربر شامل HTML، JavaScript، CSS و برنامه نویسی Ajax
 * Apache Tomcat Application Server
-
 برنامه نویسی وب در جاوا با استفاده از JSP * 
-
-برنامه نویسی لایه کنترل کننده در جاوا با استفاده از Servlet* 
-
+برنامه نویسی لایه کنترل کننده در جاوا با استفاده از Servlet * 
 * JNDI و مدیریت DataBase Connections
 * JSTL
-
 * Model View Controller Architecture
-
 مفاهیم Deploy * 
 ارتباط با بانک اطلاعاتی با دیدگاه ORM * 
 * Hibernate ORM Framework چیست؟
